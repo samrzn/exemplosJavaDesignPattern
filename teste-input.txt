@@ -1,0 +1,2 @@
+Olá, estamos testando o padrão de desenvolvimento (design pattern) Decorator,
+utilizando os métodos InputStream/BufferedReader.
